@@ -4,7 +4,7 @@
 수정예정입니다
 
 ## Naming
-<h3>```Recipe + Sea(주제) = ReSeaPe(ReSEApe)```</h3></br>
+<h3><code>Recipe + Sea(주제) = ReSeaPe(ReSEApe)</code></h3></br>
 한국어로는 '레씨피'로 표기합니다 / '레씨피' in Korean
 
 ## Sketch
