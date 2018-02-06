@@ -1,4 +1,4 @@
-//JavaScript를 배우고 싶어져서 소마센터에 있던 책에 써있던 예제코드를 실행해 본 것
+//Node.js를 배우고 싶어져서 소마센터에 있던 책에 써있던 예제코드를 실행해 본 것
 var http = require('http');
 http.createServer(function(req, res){
   var path=req.url.replace(/\/?(?:\?.*)?$/, '').toLowerCase();
