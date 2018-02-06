@@ -37,9 +37,14 @@
 근데 왜 눈물이 나는 걸까요?
 
 ## Naming
+<<<<<<< HEAD
 <h3>```Recipe + Sea(주제) = ReSeaPe(ReSEApe)```</h3></br>
 한국어로는 '레씨피'로 표기합니다 / '레씨피' in Korean</br>
 ~~누가 지었는진 몰라도 참 잘 지었네~~ ~~히히 대체 누구지?~~
+=======
+<h3><code>Recipe + Sea(주제) = ReSeaPe(ReSEApe)</code></h3></br>
+한국어로는 '레씨피'로 표기합니다 / '레씨피' in Korean
+>>>>>>> 38a8176bf7820168d1b168647730fce2cf3f3113
 
 ## Sketch
 ![Basic Sketch](images/sketch.png)</br>
