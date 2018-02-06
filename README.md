@@ -83,6 +83,7 @@ look at ```ReSeaPe_Design/presentation```</br>
 ![슬라이드 18](presentation/images/슬라이드18.JPG)</br>
 ![슬라이드 19](presentation/images/슬라이드19.JPG)</br>
 ![슬라이드 20](presentation/images/슬라이드20.JPG)</br>
+>프리젠테이션에 보노보노가 등장하면 가산점을 준다는 유언비어 때문에... 큼 
 
 ## Favicon(Logo)
 ![ReSEApe Logo](images/logo.ico)</br>
