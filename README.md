@@ -37,14 +37,9 @@
 근데 왜 눈물이 나는 걸까요?
 
 ## Naming
-<<<<<<< HEAD
 <h3>```Recipe + Sea(주제) = ReSeaPe(ReSEApe)```</h3></br>
 한국어로는 '레씨피'로 표기합니다 / '레씨피' in Korean</br>
 ~~누가 지었는진 몰라도 참 잘 지었네~~ ~~히히 대체 누구지?~~
-=======
-<h3><code>Recipe + Sea(주제) = ReSeaPe(ReSEApe)</code></h3></br>
-한국어로는 '레씨피'로 표기합니다 / '레씨피' in Korean
->>>>>>> 38a8176bf7820168d1b168647730fce2cf3f3113
 
 ## Sketch
 ![Basic Sketch](images/sketch.png)</br>
@@ -54,7 +49,7 @@
 > 급해서 ~~과연~~ 글씨가 이상하지만 뭐 햅커톤에서는 이렇게 종이에 스케치를 했습니다.
 
 ## Download
-![ReSeaPe downloads](images/ReSeaPe_downloads.png)</br>
+![ReSeaPe downloads](images/ReSeaPe_downloads.PNG)</br>
 > Repository of <strong>ENvironmentSet</strong>(ReSeaPe Developer)</br>
 
 https://github.com/ENvironmentSet/ReSeaPe</br>
@@ -63,31 +58,31 @@ ReSeaPe의 개발자 ENvironmentSet(서재원/환경설정)의 저장소입니�
 ~~Star 하나씩 박고가세요!~~
 
 ## PPT(Presentation)
-look at ```ReSeaPe_Design/presentation``` or </br>
+look at ```ReSeaPe_Design/presentation```</br>
 > Microsoft PowerPoint 2016 환경에서 제작되었습니다.
 
 모핑떡칠 + Adobe Color CC 색조합</br>
 아래에서 슬라이드 이미지를 확인할 수 있습니다.</br>
-![슬라이드 1](presentation/images/슬라이드1.jpg)</br>
-![슬라이드 2](presentation/images/슬라이드2.jpg)</br>
-![슬라이드 3](presentation/images/슬라이드3.jpg)</br>
-![슬라이드 4](presentation/images/슬라이드4.jpg)</br>
-![슬라이드 6](presentation/images/슬라이드6.jpg)</br>
-![슬라이드 5](presentation/images/슬라이드5.jpg)</br>
-![슬라이드 7](presentation/images/슬라이드7.jpg)</br>
-![슬라이드 8](presentation/images/슬라이드8.jpg)</br>
-![슬라이드 9](presentation/images/슬라이드9.jpg)</br>
-![슬라이드 10](presentation/images/슬라이드10.jpg)</br>
-![슬라이드 11](presentation/images/슬라이드11.jpg)</br>
-![슬라이드 12](presentation/images/슬라이드12.jpg)</br>
-![슬라이드 13](presentation/images/슬라이드13.jpg)</br>
-![슬라이드 14](presentation/images/슬라이드14.jpg)</br>
-![슬라이드 15](presentation/images/슬라이드15.jpg)</br>
-![슬라이드 16](presentation/images/슬라이드16.jpg)</br>
-![슬라이드 17](presentation/images/슬라이드17.jpg)</br>
-![슬라이드 18](presentation/images/슬라이드18.jpg)</br>
-![슬라이드 19](presentation/images/슬라이드19.jpg)</br>
-![슬라이드 20](presentation/images/슬라이드20.jpg)</br>
+![슬라이드 1](presentation/images/슬라이드1.JPG)</br>
+![슬라이드 2](presentation/images/슬라이드2.JPG)</br>
+![슬라이드 3](presentation/images/슬라이드3.JPG)</br>
+![슬라이드 4](presentation/images/슬라이드4.JPG)</br>
+![슬라이드 6](presentation/images/슬라이드6.JPG)</br>
+![슬라이드 5](presentation/images/슬라이드5.JPG)</br>
+![슬라이드 7](presentation/images/슬라이드7.JPG)</br>
+![슬라이드 8](presentation/images/슬라이드8.JPG)</br>
+![슬라이드 9](presentation/images/슬라이드9.JPG)</br>
+![슬라이드 10](presentation/images/슬라이드10.JPG)</br>
+![슬라이드 11](presentation/images/슬라이드11.JPG)</br>
+![슬라이드 12](presentation/images/슬라이드12.JPG)</br>
+![슬라이드 13](presentation/images/슬라이드13.JPG)</br>
+![슬라이드 14](presentation/images/슬라이드14.JPG)</br>
+![슬라이드 15](presentation/images/슬라이드15.JPG)</br>
+![슬라이드 16](presentation/images/슬라이드16.JPG)</br>
+![슬라이드 17](presentation/images/슬라이드17.JPG)</br>
+![슬라이드 18](presentation/images/슬라이드18.JPG)</br>
+![슬라이드 19](presentation/images/슬라이드19.JPG)</br>
+![슬라이드 20](presentation/images/슬라이드20.JPG)</br>
 
 ## Favicon(Logo)
 ![ReSEApe Logo](images/logo.ico)</br>
